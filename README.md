@@ -15,7 +15,7 @@ The launch date of a theater crowdfunding campaign had a noticable impact on the
 
 
 ### Analysis of Outcomes Based on Goals
-The funding goal of a theater campaign impacted the overall success rate.  In general, lower funding goals cooresponded with higher rates of successful campaigns. Notably, campaigns under $5,000 saw great success with an average success rate of 68%. Once campaign goals reached $20,000 the rate of failure exceeded the rate of success (with a few exceptions).  These exceptions fell within the funding goal bracket of $35,000 - $49,999 and will be discussed in the limitations section below.  Overall, the average failure rate of a campaign over $20,000 was 66%. The below graph shows the coorelation between the funding goal set and the success of a theater campaign. 
+The funding goal of a theater campaign impacted the overall success rate.  In general, lower funding goals cooresponded with higher rates of successful campaigns. Notably, campaigns under $5,000 had acceptional performance with an average success rate of 68%. Once campaign goals reached $20,000 the rate of failure exceeded the rate of success (with a few exceptions).  These exceptions fell within the funding goal bracket of $35,000 - $49,999 and will be discussed in the limitations section below.  Overall, the average failure rate of a campaign over $20,000 was 66%. The below graph shows the coorelation between the funding goal set and the success of a theater campaign. 
 
 ![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
