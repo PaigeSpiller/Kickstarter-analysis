@@ -4,7 +4,7 @@ Kickstarter data analysis in order to determine trends in theater crowdfunded pr
 ## Overview of Project
 
 ### Purpose
-The pupose of this analysis is to assess crowdfunding data in order to determine what types of theater projects were successful in reaching their goals.  In this analysis, we will look at project launch dates and project funding goals in order to determine if the timing of the crowdfunding campaign and the monetary goal had any impact on the success of the campaign. This data analysis will be a useful resource to anyone considering a theater crowdfunding campaign.  
+The pupose of this analysis is to assess crowdfunding data in order to determine what types of theater projects were successful in reaching their goals.  In this analysis, we will look at project launch dates and project funding goals in order to determine if the timing of the crowdfunding campaign and the monetary goal had any impact on the success of the campaign. This data analysis will be a useful resource to anyone considering a theater crowdfunding campaign. 
 
 ## Analysis and Challenges
 
